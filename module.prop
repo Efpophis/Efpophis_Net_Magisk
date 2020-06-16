@@ -1,0 +1,6 @@
+id=Efpophis_Net_CA
+name=Efpophis.Net root CA
+version=1
+versionCode=1
+author=Efpophis
+description=Systemlessly install the Efpophis.net Root CA cert.
